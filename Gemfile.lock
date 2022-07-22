@@ -184,7 +184,7 @@ GEM
       tty-cursor (~> 0.7)
     tty-color (0.5.1)
     tty-cursor (0.7.1)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unicode-display_width (1.6.1)
     unicode_utils (1.4.0)
